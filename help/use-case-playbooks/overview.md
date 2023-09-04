@@ -1,17 +1,17 @@
 ---
-title: Présentation des classeurs de cas d’utilisation
-description: Il s’agit de la page d’aperçu des classeurs de cas d’utilisation.
+title: Vue d’ensemble des playbooks de cas d’utilisation
+description: Cette page donne une vue d’ensemble des playbooks de cas d’utilisation.
 source-git-commit: a389631a2baa639496f4168a164aa3461157f5ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '21'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Présentation
+# Vue d’ensemble
 
-Bienvenue dans le guide d’utilisation d’UCP.
+Bienvenue dans le guide d’utilisation de l’UCP.
 
 PLUS...
 

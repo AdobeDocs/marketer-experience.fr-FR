@@ -1,17 +1,17 @@
 ---
-title: Amplifier l’aperçu
-description: Il s’agit de la page d’aperçu d’ Amplify .
+title: Vue d’ensemble d’Amplify
+description: Cette page donne une vue d’ensemble d’Amplify.
 source-git-commit: a389631a2baa639496f4168a164aa3461157f5ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '17'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Présentation
+# Vue d’ensemble
 
-Bienvenue dans le guide d’utilisation de l’application.
+Bienvenue dans le guide d’utilisation d’Amplify.
 
 PLUS...
 

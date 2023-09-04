@@ -1,14 +1,14 @@
 ---
-title: Expérience marketing
-description: Il s’agit de la page d’aperçu de [!DNL Marketer Experience].
+title: Expérience des spécialistes marketing
+description: Cette page présente  [!DNL Marketer Experience].
 source-git-commit: a3eef4938f645e4db1db335aa36d988c93921f18
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Présentation de l’expérience marketing
+# Vue d’ensemble de l’expérience des spécialistes marketing
 
-Bienvenue dans la [!DNL Marketer Experience] aperçu.
+Bienvenue dans la vue d’ensemble de [!DNL Marketer Experience].
