@@ -175,3 +175,4 @@ Pour tout parcours publié, la personne doit pouvoir accéder à un bouton **[!U
 ## Nettoyer
 
 Ne laissez pas plusieurs instances de `Journey` s’exécuter simultanément. Arrêtez le parcours s’il n’est destiné qu’à la validation une fois que celle-ci est terminée.
+
